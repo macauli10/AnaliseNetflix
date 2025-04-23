@@ -27,9 +27,10 @@ O dashboard construído no Power BI apresenta:
 
 ## 📁 Estrutura de Pastas
 
-📂 .vscode/ # Configurações locais do VS Code
-📂 DadosBruto/ # Arquivos originais/brutos antes do tratamento
-📂 DadosTratado/ # Dados tratados e prontos para análise
-📂 DashBoards/ # Arquivos e imagens dos dashboards criados no Power BI
-📂 JupyterNotebook/ # Notebooks utilizados no processo de ETL (Python)
-📄 README.md # Documentação do projeto
+```text
+📂 .vscode/           # Configurações locais do VS Code  
+📂 DadosBruto/        # Arquivos originais/brutos antes do tratamento  
+📂 DadosTratado/      # Dados tratados e prontos para análise  
+📂 DashBoards/        # Arquivos e imagens dos dashboards criados no Power BI  
+📂 JupyterNotebook/   # Notebooks utilizados no processo de ETL (Python)  
+📄 README.md          # Documentação do projeto  
